@@ -5,6 +5,7 @@ All the structural data (trajectory files including the positions, energy and fo
 https://nomad-lab.eu/prod/v1/gui/user/datasets/dataset/id/62t1IqjnRS68DFVaZ34evQ
 
 Data strucuture:
+```
 .
 ├── HDNNP
 │   ├── train
@@ -87,3 +88,5 @@ Data strucuture:
             │   └── 2ad_attached_dft.traj
             └── 3ad
                 └── 3ad_attached_dft.traj
+ ```
+ 
