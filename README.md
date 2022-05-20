@@ -7,6 +7,6 @@ https://nomad-lab.eu/prod/v1/gui/user/datasets/dataset/id/62t1IqjnRS68DFVaZ34evQ
 `free_energy_plot.py` script generates Adsorption Energy vs CO Coverage plots and minima energy structures at each coverage for 450 Torr (mu_15.33), 0.5 Torr (mu_15.5) and 0.0007 Torr (mu_15.68). The minima strucutres are used to understand restructuring. 
 
 ## HDNNP
-Contains the files to utilize the n2p2-Neural Network Potential.
-The files can be used with LAMMP - https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html
-It can also be used with ASE - https://github.com/vsumaria/ASE_N2P2
+Contains the files to utilize the n2p2-Neural Network Potential. The files can be used with - 
+- `LAMMP` - https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html
+- `ASE` - https://github.com/vsumaria/ASE_N2P2
