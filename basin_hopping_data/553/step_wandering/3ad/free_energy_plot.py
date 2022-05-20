@@ -30,7 +30,7 @@ def e_corr(atoms):
 
 name = glob.glob('*.traj')[0]
 
-clean = -616.73
+clean = -615.07
 
 for mu_co in [-15.33, -15.5, -15.68]:
     
