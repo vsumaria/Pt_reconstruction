@@ -34,3 +34,11 @@ https://nomad-lab.eu/prod/v1/gui/user/datasets/dataset/id/62t1IqjnRS68DFVaZ34evQ
 Contains the files to utilize the n2p2-Neural Network Potential. The files can be used with - 
 - `LAMMP` - https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html
 - `ASE` - https://github.com/vsumaria/ASE_N2P2
+
+## NEB
+```
+.
+├── detach
+└── diffusion
+```
+Contrains the NEB trajectories and python script used to generate Fig. 5 on manuscript.
