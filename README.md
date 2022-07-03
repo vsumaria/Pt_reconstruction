@@ -29,6 +29,10 @@ All the structural data (trajectory files including the positions, energy and fo
 ```
 .
 ├── n2p2_weights
+├── parity
+│   ├── TRAIN
+│   ├── VALID
+
 ```
 Contains the files to utilize the n2p2-Neural Network Potential. The files can be used with - 
 - `LAMMP` - https://compphysvienna.github.io/n2p2/interfaces/if_lammps.html
