@@ -44,4 +44,4 @@ Contains the files to utilize the n2p2-Neural Network Potential. The files can b
 ├── detach
 └── diffusion
 ```
-Contrains the NEB trajectories and python script used to generate Fig. 5 on manuscript.
+Contrains the NEB trajectories and python script used to generate Fig. 5 and S20.
